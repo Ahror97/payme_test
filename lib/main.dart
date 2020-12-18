@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       cursorHeight: 20,
                       decoration: InputDecoration(
                         fillColor: Colors.white,
-                        border: InputBorder.,
+                        border: UnderlineInputBorder(),
                         filled: true,
                         labelText: '8600 ...',
                       ),
